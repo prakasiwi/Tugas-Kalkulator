@@ -1,5 +1,5 @@
 # Tugas-Kalkulator
 #Screenshot Awal
-![alt text](https://github.com/prakasiwi/Tugas-Kalkulator/blob/master/Screenshot%20(70).png)
+![alt text](https://github.com/prakasiwi/Tugas-Kalkulator/blob/master/akhir.png)
 #Screenshot Hasil
-![alt text](https://github.com/prakasiwi/Tugas-Kalkulator/blob/master/Screenshot%20(71).png)
+![alt text](https://github.com/prakasiwi/Tugas-Kalkulator/blob/master/awal.png)
